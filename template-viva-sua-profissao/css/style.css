@@ -5,13 +5,13 @@
    ========================================================= */
 
 :root {
-  --cor-primaria: #1d4ed8;      /* Azul principal (mude para a cor da profissão!) */
-  --cor-primaria-escura: #1e3a8a;
-  --cor-destaque: #0ea5e9;
-  --cor-fundo: #ffffff;
-  --cor-fundo-suave: #f1f5f9;
-  --cor-texto: #1e293b;
-  --cor-texto-suave: #475569;
+  --cor-primaria: #4f46e5;      /* Azul principal (mude para a cor da profissão!) */
+  --cor-primaria-escura: #312e81;
+  --cor-destaque: #06b6d4;
+  --cor-fundo: #ffffff ;
+  --cor-fundo-suave: #f8fafc;
+  --cor-texto: #0f172a;
+  --cor-texto-suave: #475569 ;
   --cor-borda: #cbd5e1;
 }
 
