@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://trabalho-viva-sua-profissao.github.io/viva-sua-profissao/template-viva-sua-profissao/sitemap.xml
